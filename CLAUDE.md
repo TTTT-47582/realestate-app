@@ -43,6 +43,10 @@ src/
 - Row Level Security (RLS) を必ず有効にする
 - 秘密鍵（service_role key）はサーバーサイドのみで使用し、フロントエンドに含めない
 
+## GitHub リポジトリ
+
+https://github.com/TTTT-47582/realestate-app.git
+
 ## Git 運用ルール
 
 **コードを変更するたびに、必ず GitHub にプッシュすること。**
