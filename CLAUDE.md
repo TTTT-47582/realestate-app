@@ -43,6 +43,11 @@ src/
 - Row Level Security (RLS) を必ず有効にする
 - 秘密鍵（service_role key）はサーバーサイドのみで使用し、フロントエンドに含めない
 
+## デプロイ情報
+
+- 本番URL：https://realestate-app-omega-azure.vercel.app
+- Supabaseプロジェクト名：realestate-app
+
 ## GitHub リポジトリ
 
 https://github.com/TTTT-47582/realestate-app.git
